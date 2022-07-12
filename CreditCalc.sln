@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CreditCalc", "CreditCalc\CreditCalc.pyproj", "{E13317C9-2A7A-49E8-8CD1-A62FC62E53DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E13317C9-2A7A-49E8-8CD1-A62FC62E53DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E13317C9-2A7A-49E8-8CD1-A62FC62E53DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10C4DD64-6806-4572-B8DC-9B0A4A707928}
+	EndGlobalSection
+EndGlobal
